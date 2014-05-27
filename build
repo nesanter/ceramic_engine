@@ -1,0 +1,1 @@
+dmd adventure.d libs.d ceramic_engine/*.d -Iceramic_engine/import ceramic_engine/lib/libDerelictUtil.a ceramic_engine/lib/libDerelictGLFW3.a ceramic_engine/lib/libDerelictGL3.a -L-ldl
